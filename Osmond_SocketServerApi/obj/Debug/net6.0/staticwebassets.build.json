@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6l2TXmRF34UWjEOyN7AHPDuKDk4TDFOnhgMb1F+ShX8=",
+  "Source": "Osmond_SocketServerApi",
+  "BasePath": "_content/Osmond_SocketServerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
